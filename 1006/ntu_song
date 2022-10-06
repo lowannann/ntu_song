@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台大校歌</title>
+    <link rel="stylesheet" href="style.css" />
+ 
+</head>
+<body>
+    <div class="center">        
+        <img src="ntu.png" alt="description" height="100" width="100" />
+        <h1>台大校歌</h1>
+    </div>  
+
+    <section class="center2">
+        <div>臺大的環境　鬱鬱蔥蔥　臺大的氣象　勃勃蓬蓬</div>
+        <div>遠望那玉山突出雲表　正象徵我們目標的高崇</div>
+        <div>近看蜿蜒的淡水　他不捨晝夜地流動</div>    
+        <div>正顯示我們百折不撓的作風　這百折不撓的作風</div>
+        <div>定使我們　一切事業都成功</div>
+    </section>
+
+
+
+
+    
+</body>
+</html>
